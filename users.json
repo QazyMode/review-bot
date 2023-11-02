@@ -1,0 +1,468 @@
+{
+    "rb186633": {
+        "gitlabId": 1016,
+        "gitlabUsername": "rb186633",
+        "telegramUsername": "@rodyaa8",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3395
+        ]
+    },
+    "rb191365": {
+        "gitlabId": 1817,
+        "gitlabUsername": "rb191365",
+        "telegramUsername": "@DanLetto",
+        "vacation": true,
+        "reviewScore": 1,
+        "mergeRequest": [
+            3394
+        ]
+    },
+    "rb188468": {
+        "gitlabId": 821,
+        "gitlabUsername": "rb188468",
+        "telegramUsername": "@AlekseyMatsekha",
+        "reviewScore": 1,
+        "vacation": true,
+        "mergeRequest": [
+            3304,
+            3324,
+            3348,
+            3349,
+            3387
+        ]
+    },
+    "rb188058": {
+        "gitlabId": 2231,
+        "gitlabUsername": "rb188058",
+        "telegramUsername": "@v_a_l_i_k_o",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3330,
+            3331,
+            3370,
+            3380
+        ]
+    },
+    "rb192699": {
+        "gitlabId": 1064,
+        "gitlabUsername": "rb192699",
+        "telegramUsername": "@eugfomin",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3346,
+            3366,
+            3371
+        ]
+    },
+    "rb189538": {
+        "gitlabId": 1065,
+        "gitlabUsername": "rb189538",
+        "telegramUsername": "@tatolmal",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3310,
+            3340,
+            3367
+        ]
+    },
+    "rb195287": {
+        "gitlabId": 1869,
+        "gitlabUsername": "rb195287",
+        "telegramUsername": "@zhuraveln",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3326,
+            3347,
+            3363,
+            3377
+        ]
+    },
+    "rb198126": {
+        "gitlabId": 2589,
+        "gitlabUsername": "rb198126",
+        "telegramUsername": "@robot_ykrop",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3312,
+            3333,
+            3350
+        ]
+    },
+    "rb198413": {
+        "gitlabId": 2670,
+        "gitlabUsername": "rb198413",
+        "telegramUsername": "@danillistov",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3313,
+            3337,
+            3364,
+            3379
+        ]
+    },
+    "rb198686": {
+        "gitlabId": 2712,
+        "gitlabUsername": "rb198686",
+        "telegramUsername": "@asadullintimur",
+        "reviewScore": 1,
+        "vacation": true,
+        "mergeRequest": [
+            3307,
+            3342,
+            3352,
+            3375,
+            3396,
+            3398,
+            3400
+        ]
+    },
+    "rb188159": {
+        "gitlabId": 1870,
+        "gitlabUsername": "rb188159",
+        "telegramUsername": "@lyadoann",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3309,
+            3344,
+            3353,
+            3355,
+            3373
+        ]
+    },
+    "rb198567": {
+        "gitlabId": 2731,
+        "gitlabUsername": "rb198567",
+        "telegramUsername": "@FrontendDeveloper05",
+        "vacation": true,
+        "reviewScore": 1,
+        "mergeRequest": []
+    },
+    "rb194175": {
+        "gitlabId": 1066,
+        "gitlabUsername": "rb194175",
+        "telegramUsername": "@Evgeniy_shoshin",
+        "vacation": true,
+        "reviewScore": 1,
+        "mergeRequest": [
+            3305,
+            3345,
+            3368,
+            3384
+        ]
+    },
+    "rb195502": {
+        "gitlabId": 1420,
+        "gitlabUsername": "rb195502",
+        "telegramUsername": "@webnekrasova",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3325,
+            3339,
+            3361,
+            3383,
+            3385
+        ]
+    },
+    "rb196314": {
+        "gitlabId": 2020,
+        "gitlabUsername": "rb196314",
+        "telegramUsername": "@morozhiik",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3391
+        ]
+    },
+    "rb190414": {
+        "gitlabId": 1067,
+        "gitlabUsername": "rb190414",
+        "telegramUsername": "@andreyskorchenko",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3315,
+            3332,
+            3357,
+            3360,
+            3378
+        ]
+    },
+    "rb195425": {
+        "gitlabId": 1419,
+        "gitlabUsername": "rb195425",
+        "telegramUsername": "@legnanellaf",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3314,
+            3334,
+            3356,
+            3397
+        ]
+    },
+    "rb194144": {
+        "gitlabId": 818,
+        "gitlabUsername": "rb194144",
+        "telegramUsername": "@dolet",
+        "reviewScore": 1,
+        "mergeRequest": [
+            3308,
+            3338,
+            3365,
+            3376
+        ]
+    }
+}
+
+{
+    "rb186633": {
+        "gitlabId": 1016,
+        "gitlabUsername": "rb186633",
+        "telegramUsername": "@rodyaa8",
+        "reviewed": true,
+        "mergeRequest": [
+            3395
+        ]
+    },
+    "rb191365": {
+        "gitlabId": 1817,
+        "gitlabUsername": "rb191365",
+        "telegramUsername": "@DanLetto",
+        "vacation": true,
+        "reviewed": true,
+        "mergeRequest": [
+            3394
+        ]
+    },
+    "rb188468": {
+        "gitlabId": 821,
+        "gitlabUsername": "rb188468",
+        "telegramUsername": "@AlekseyMatsekha",
+        "reviewed": true,
+        "vacation": true,
+        "mergeRequest": [
+            3304,
+            3324,
+            3348,
+            3349,
+            3387,
+            3402,
+            3415
+        ]
+    },
+    "rb188058": {
+        "gitlabId": 2231,
+        "gitlabUsername": "rb188058",
+        "telegramUsername": "@v_a_l_i_k_o",
+        "reviewed": true,
+        "mergeRequest": [
+            3330,
+            3331,
+            3370,
+            3380,
+            3411,
+            3414
+        ]
+    },
+    "rb192699": {
+        "gitlabId": 1064,
+        "gitlabUsername": "rb192699",
+        "telegramUsername": "@eugfomin",
+        "reviewed": true,
+        "mergeRequest": [
+            3346,
+            3366,
+            3371,
+            3401
+        ]
+    },
+    "rb189538": {
+        "gitlabId": 1065,
+        "gitlabUsername": "rb189538",
+        "telegramUsername": "@tatolmal",
+        "reviewed": true,
+        "mergeRequest": [
+            3310,
+            3340,
+            3367,
+            3410,
+            3417
+        ]
+    },
+    "rb195287": {
+        "gitlabId": 1869,
+        "gitlabUsername": "rb195287",
+        "telegramUsername": "@zhuraveln",
+        "reviewed": true,
+        "mergeRequest": [
+            3326,
+            3347,
+            3363,
+            3377,
+            3406
+        ]
+    },
+    "rb198126": {
+        "gitlabId": 2589,
+        "gitlabUsername": "rb198126",
+        "telegramUsername": "@robot_ykrop",
+        "reviewed": false,
+        "mergeRequest": [
+            3312,
+            3333,
+            3350
+        ]
+    },
+    "rb198413": {
+        "gitlabId": 2670,
+        "gitlabUsername": "rb198413",
+        "telegramUsername": "@danillistov",
+        "reviewed": true,
+        "mergeRequest": [
+            3313,
+            3337,
+            3364,
+            3379
+        ]
+    },
+    "rb198686": {
+        "gitlabId": 2712,
+        "gitlabUsername": "rb198686",
+        "telegramUsername": "@asadullintimur",
+        "reviewed": true,
+        "vacation": true,
+        "mergeRequest": [
+            3307,
+            3342,
+            3352,
+            3375,
+            3396,
+            3398,
+            3400
+        ]
+    },
+    "rb188159": {
+        "gitlabId": 1870,
+        "gitlabUsername": "rb188159",
+        "telegramUsername": "@lyadoann",
+        "reviewed": true,
+        "mergeRequest": [
+            3309,
+            3344,
+            3353,
+            3355,
+            3373
+        ]
+    },
+    "rb198567": {
+        "gitlabId": 2731,
+        "gitlabUsername": "rb198567",
+        "telegramUsername": "@FrontendDeveloper05",
+        "vacation": true,
+        "reviewed": true,
+        "mergeRequest": [
+            3413
+        ]
+    },
+    "rb194175": {
+        "gitlabId": 1066,
+        "gitlabUsername": "rb194175",
+        "telegramUsername": "@Evgeniy_shoshin",
+        "vacation": true,
+        "reviewed": true,
+        "mergeRequest": [
+            3305,
+            3345,
+            3368,
+            3384
+        ]
+    },
+    "rb195502": {
+        "gitlabId": 1420,
+        "gitlabUsername": "rb195502",
+        "telegramUsername": "@webnekrasova",
+        "reviewed": true,
+        "mergeRequest": [
+            3325,
+            3339,
+            3361,
+            3383,
+            3385,
+            3407
+        ]
+    },
+    "rb196314": {
+        "gitlabId": 2020,
+        "gitlabUsername": "rb196314",
+        "telegramUsername": "@morozhiik",
+        "reviewed": true,
+        "mergeRequest": [
+            3391
+        ]
+    },
+    "rb190414": {
+        "gitlabId": 1067,
+        "gitlabUsername": "rb190414",
+        "telegramUsername": "@andreyskorchenko",
+        "reviewed": true,
+        "mergeRequest": [
+            3315,
+            3332,
+            3357,
+            3360,
+            3378,
+            3405
+        ]
+    },
+    "rb195425": {
+        "gitlabId": 1419,
+        "gitlabUsername": "rb195425",
+        "telegramUsername": "@legnanellaf",
+        "reviewed": true,
+        "mergeRequest": [
+            3314,
+            3334,
+            3356,
+            3397,
+            3408
+        ]
+    },
+    "rb194144": {
+        "gitlabId": 818,
+        "gitlabUsername": "rb194144",
+        "telegramUsername": "@dolet",
+        "reviewed": true,
+        "mergeRequest": [
+            3308,
+            3338,
+            3365,
+            3376,
+            3403,
+            3416
+        ]
+    }
+}
+
+
+
+
+function reactive(obj) {
+    return new Proxy(obj, {
+        get(target, key) {
+        return target[key]
+        },
+        set(target, key, value) {
+        target[key] = value
+        }
+    })
+}
+
+function ref(value) {
+    const refObject = {
+        get value() {
+        return value
+        },
+        set value(newValue) {
+        value = newValue
+        }
+    }
+    return refObject
+}

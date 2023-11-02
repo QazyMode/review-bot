@@ -1,0 +1,16 @@
+version: '3.0'
+
+services:
+  bot:
+    build: .
+    container_name: review-bot
+    image: qazymode/review-bot:latest
+    env_file:
+      - .prod.env
+    volumes:
+      - users:/var/lib/docker/volumes/
+    ports:
+      - "8080:8080"
+
+volumes:
+  users:
